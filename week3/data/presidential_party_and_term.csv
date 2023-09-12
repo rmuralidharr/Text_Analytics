@@ -1,0 +1,47 @@
+Unnamed: 0,no.,president,birthplace,political party,term,start_date,end_date
+,1,George Washington,Va.,Federalist,1789–97,1789,1789
+,2,John Adams,Mass.,Federalist,1797–1801,1797,1797
+,3,Thomas Jefferson,Va.,Democratic-Republican,1801–09,1801,1801
+,4,James Madison,Va.,Democratic-Republican,1809–17,1809,1809
+,5,James Monroe,Va.,Democratic-Republican,1817–25,1817,1817
+,6,John Quincy Adams,Mass.,National Republican,1825–29,1825,1825
+,7,Andrew Jackson,S.C.,Democratic,1829–37,1829,1829
+,8,Martin Van Buren,N.Y.,Democratic,1837–41,1837,1837
+,9,William Henry Harrison,Va.,Whig,1841*,1841,1841
+,10,John Tyler,Va.,Whig,1841–45,1841,1841
+,11,James K. Polk,N.C.,Democratic,1845–49,1845,1845
+,12,Zachary Taylor,Va.,Whig,1849–50*,1849,1849
+,13,Millard Fillmore,N.Y.,Whig,1850–53,1850,1850
+,14,Franklin Pierce,N.H.,Democratic,1853–57,1853,1853
+,15,James Buchanan,Pa.,Democratic,1857–61,1857,1857
+,16,Abraham Lincoln,Ky.,Republican,1861–65*,1861,1861
+,17,Andrew Johnson,N.C.,Democratic (Union),1865–69,1865,1865
+,18,Ulysses S. Grant,Ohio,Republican,1869–77,1869,1869
+,19,Rutherford B. Hayes,Ohio,Republican,1877–81,1877,1877
+,20,James A. Garfield,Ohio,Republican,1881*,1881,1881
+,21,Chester A. Arthur,Vt.,Republican,1881–85,1881,1881
+,22,Grover Cleveland,N.J.,Democratic,1885–89,1885,1885
+,23,Benjamin Harrison,Ohio,Republican,1889–93,1889,1889
+,24,Grover Cleveland,N.J.,Democratic,1893–97,1893,1893
+,25,William McKinley,Ohio,Republican,1897–1901*,1897,1897
+,26,Theodore Roosevelt,N.Y.,Republican,1901–09,1901,1901
+,27,William Howard Taft,Ohio,Republican,1909–13,1909,1909
+,28,Woodrow Wilson,Va.,Democratic,1913–21,1913,1913
+,29,Warren G. Harding,Ohio,Republican,1921–23*,1921,1921
+,30,Calvin Coolidge,Vt.,Republican,1923–29,1923,1923
+,31,Herbert Hoover,Iowa,Republican,1929–33,1929,1929
+,32,Franklin D. Roosevelt,N.Y.,Democratic,1933–45*,1933,1933
+,33,Harry S. Truman,Mo.,Democratic,1945–53,1945,1945
+,34,Dwight D. Eisenhower,Texas,Republican,1953–61,1953,1953
+,35,John F. Kennedy,Mass.,Democratic,1961–63*,1961,1961
+,36,Lyndon B. Johnson,Texas,Democratic,1963–69,1963,1963
+,37,Richard M. Nixon,Calif.,Republican,1969–74**,1969,1969
+,38,Gerald R. Ford,Neb.,Republican,1974–77,1974,1974
+,39,Jimmy Carter,Ga.,Democratic,1977–81,1977,1977
+,40,Ronald Reagan,Ill.,Republican,1981–89,1981,1981
+,41,George Bush,Mass.,Republican,1989–93,1989,1989
+,42,Bill Clinton,Ark.,Democratic,1993–2001,1993,1993
+,43,George W. Bush,Conn.,Republican,2001–09,2001,2001
+,44,Barack Obama,Hawaii,Democratic,2009–17,2009,2009
+,45,Donald Trump,N.Y.,Republican,2017–21,2017,2017
+,46,Joe Biden,Pa.,Democratic,2021–,2021,2021

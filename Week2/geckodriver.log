@@ -1,0 +1,34 @@
+1693974078419	geckodriver	INFO	Listening on 127.0.0.1:51047
+1693974081510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rmura\\AppData\\Local\\Temp\\rust_mozprofilelf5tdN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693974081774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693974081875	Marionette	INFO	Listening on port 51057
+WebDriver BiDi listening on ws://127.0.0.1:51048
+Read port: 51057
+1693974082049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51048/devtools/browser/7ca1d106-48b6-43fd-9984-02c6eb6f2977
+JavaScript warning: https://ads.adthrive.com/builds/core/14c79e4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://ads.adthrive.com/builds/core/14c79e4/es2018/js/adthrive.min.js?deployment=2023-09-05-1:14c79e4:con&bucket=flex-02&deliveryFeatures=rubiconFloors,recencyFrequency,ttdSync,reissuingSticky,manualCookieSync,prebidLoad,gptLoad,amazonLoad&siteid=61575e5c934c481d714b3ca9, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693974085321	Marionette	INFO	Stopped listening on port 51057
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/merriamwebster_6e5b0_encyclopediabritannica.js, line 2: unreachable code after return statement
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693976224559	geckodriver	INFO	Listening on 127.0.0.1:52225
+1693976227604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rmura\\AppData\\Local\\Temp\\rust_mozprofile3RfZST"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693976227814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693976227886	Marionette	INFO	Listening on port 52239
+WebDriver BiDi listening on ws://127.0.0.1:52226
+Read port: 52239
+1693976228028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52226/devtools/browser/d73a3638-720f-42df-b50c-d8bfdb8f0d15
+JavaScript warning: https://ads.adthrive.com/builds/core/14c79e4/vendor/prebid/es2018/prebid.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://ads.adthrive.com/builds/core/14c79e4/es2018/js/adthrive.min.js?deployment=stable&bucket=prod&deliveryFeatures=rubiconFloors,recencyFrequency,ttdSync,reissuingSticky,manualCookieSync,prebidLoad,gptLoad,amazonLoad&siteid=61575e5c934c481d714b3ca9, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/merriamwebster_6e5b0_encyclopediabritannica.js, line 2: unreachable code after return statement
+1693976231231	Marionette	INFO	Stopped listening on port 52239
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed

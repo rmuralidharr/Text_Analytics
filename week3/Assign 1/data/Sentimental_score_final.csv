@@ -1,0 +1,45 @@
+,president name,Sentiment score,political party
+0,Abraham Lincoln,1.0,Republican
+1,Andrew Jackson,1.0,Democratic
+2,Andrew Johnson,1.0,Democratic (Union)
+3,Barack Obama,1.0,Democratic
+4,Benjamin Harrison,1.0,Republican
+5,Bill Clinton,1.0,Democratic
+6,Calvin Coolidge,1.0,Republican
+7,Chester A. Arthur,1.0,Republican
+8,Donald Trump,1.0,Republican
+9,Dwight D. Eisenhower,1.0,Republican
+10,Franklin D. Roosevelt,1.0,Democratic
+11,Franklin Pierce,1.0,Democratic
+12,George W. Bush,1.0,Republican
+13,George Washington,1.0,Federalist
+14,Gerald Ford,1.0,Republican
+15,Grover Cleveland,1.0,Democratic
+16,Harry S. Truman,1.0,Democratic
+17,Herbert Hoover,1.0,Republican
+18,James A. Garfield,0.9998,Republican
+19,James Buchanan,1.0,Democratic
+20,James K. Polk,1.0,Democratic
+21,James Madison,1.0,Democratic-Republican
+22,James Monroe,1.0,Democratic-Republican
+23,Jimmy Carter,1.0,Democratic
+24,Joe Biden,1.0,Democratic
+25,John Adams,1.0,Federalist
+26,John F. Kennedy,1.0,Democratic
+27,John Quincy Adams,1.0,National Republican
+28,John Tyler,1.0,Whig
+29,Lyndon B. Johnson,1.0,Democratic
+30,Martin Van Buren,1.0,Democratic
+31,Millard Fillmore,1.0,Whig
+32,Richard M. Nixon,1.0,Republican
+33,Ronald Reagan,1.0,Republican
+34,Rutherford B. Hayes,1.0,Republican
+35,Theodore Roosevelt,1.0,Republican
+36,Thomas Jefferson,1.0,Democratic-Republican
+37,Ulysses S. Grant,1.0,Republican
+38,Warren G. Harding,1.0,Republican
+39,William Harrison,1.0,Whig
+40,William McKinley,1.0,Republican
+41,William Taft,1.0,Republican
+42,Woodrow Wilson,1.0,Democratic
+43,Zachary Taylor,1.0,Whig

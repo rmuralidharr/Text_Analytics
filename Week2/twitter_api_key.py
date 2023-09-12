@@ -1,0 +1,4 @@
+API_KEY='ovjNWyuwCD9DvcrHIdkmtFh5S'
+API_KEY_SECRET='rV8yNJphSXcnJ4cuBAuXOA0DVOs2rp8xbIDoHVIVhc1PDLBwKV'
+Access_Token='2789181818-lfarg7MBnkne4HyWcxJXT0B0tCBtRodM5OPFcUb'
+Access_Token_Secret='CPWmZTPQnyhaabmEN2pVaBjYsYSIAVAMQYXKqtXAcVf2t'
